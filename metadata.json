@@ -1,0 +1,9 @@
+{
+  "name": "Kassongo Cut",
+  "description": "Premium AI-powered video templates, timeline editing, smart captions, and media suite inspired by CapCut.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
